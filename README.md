@@ -37,7 +37,7 @@ clinical-trial-assistant/
 │   ├── query_responses.json
 │   ├── predefined_responses.json
 ├── notebooks/
-│   └── 02_clinical_trial_assistant_demo.ipynb
+│   └── Clinical-Trial_Assistant.ipynb
 ├── src/
 │   ├── embedder.py
 │   ├── retriever.py
