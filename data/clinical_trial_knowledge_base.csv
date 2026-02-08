@@ -1,0 +1,36 @@
+section,text
+schedule,Visit 1 (Screening) occurs on Day -7 to Day 0. This includes consent and baseline exams.
+schedule,Visit 2 (Baseline) occurs on Day 0 and includes study drug administration.
+schedule,Visit 3 occurs on Day 7 for safety labs and symptom review.
+schedule,Visit 4 occurs on Day 14 for follow-up and questionnaire review.
+schedule,Visit 5 occurs on Day 28 and includes imaging and physician evaluation.
+rules,Participants must follow all study procedures exactly as explained by the study staff.
+rules,You must not take non-approved medications without notifying the study doctor.
+rules,Alcohol consumption should be limited to one drink per day during the study.
+rules,You must avoid starting new supplements during the study period.
+rules,Smoking and recreational drug use are not allowed during participation.
+side_effects,"Common side effects include nausea, fatigue, headache, dizziness, and dry mouth."
+side_effects,"Moderate side effects may include muscle pain, insomnia, or appetite changes."
+side_effects,"Serious side effects include fainting, chest pain, or severe allergic reactions."
+side_effects,You should report any new or worsening symptoms immediately.
+side_effects,"Side effects can be reported by phone, email, or during your next visit."
+admin,"The study coordinator is available Monday to Friday, 9am to 5pm."
+admin,Missed visits must be rescheduled within 3 business days.
+admin,Transportation support may be available upon request.
+admin,You must notify the study team if you plan to travel during the study.
+admin,Study-related forms must be completed at each visit.
+medication,Only acetaminophen is allowed for pain unless otherwise approved.
+medication,"You must not take ibuprofen, aspirin, naproxen, or other NSAIDs."
+medication,Prescription changes must be reviewed by the study doctor.
+medication,Herbal supplements are not allowed unless approved.
+medication,Bring all medications to each visit for review.
+visits,Arrive 15 minutes early for all appointments.
+visits,Bring your study ID card to every visit.
+visits,Blood samples will be collected at certain visits.
+visits,Some visits may take up to 2 hours.
+visits,Wear comfortable clothing to your appointments.
+emergency,Call emergency services if you experience chest pain or difficulty breathing.
+emergency,Go to the nearest emergency room for fainting or severe bleeding.
+emergency,Contact the study doctor immediately for serious symptoms.
+emergency,Do not wait for your next visit if symptoms are severe.
+emergency,Your safety is the top priority of the study team.
