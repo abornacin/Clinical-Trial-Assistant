@@ -1,0 +1,303 @@
+[
+  {
+    "query_id": 1,
+    "query_text": "When is my screening visit?",
+    "top_responses": [
+      "Your screening visit is the first appointment where the study team checks if you meet the eligibility criteria.",
+      "The screening visit usually happens before any study procedures begin.",
+      "You will be contacted by the study coordinator to schedule your screening appointment."
+    ],
+    "confidence_scores": [0.90, 0.83, 0.78]
+  },
+  {
+    "query_id": 2,
+    "query_text": "What happens on Day 0?",
+    "top_responses": [
+      "Day 0 is when you officially start the study and receive your first study-related procedures or medication.",
+      "Baseline tests and first dosing may occur on Day 0.",
+      "The team will review the study plan with you on Day 0."
+    ],
+    "confidence_scores": [0.91, 0.85, 0.79]
+  },
+  {
+    "query_id": 3,
+    "query_text": "How long does Visit 5 take?",
+    "top_responses": [
+      "Visit length varies, but most visits last between 30 minutes and 2 hours.",
+      "Your coordinator can give you a specific time estimate for Visit 5.",
+      "Some visits take longer if lab tests or imaging are included."
+    ],
+    "confidence_scores": [0.88, 0.82, 0.76]
+  },
+  {
+    "query_id": 4,
+    "query_text": "Can I drink alcohol during the study?",
+    "top_responses": [
+      "Alcohol use may be restricted during the study. Follow the instructions given by the study team.",
+      "Some studies allow limited alcohol, others prohibit it.",
+      "Ask your coordinator before drinking alcohol."
+    ],
+    "confidence_scores": [0.92, 0.85, 0.79]
+  },
+  {
+    "query_id": 5,
+    "query_text": "Am I allowed to take supplements?",
+    "top_responses": [
+      "Some supplements are not allowed. Always check with the study team first.",
+      "Certain vitamins or herbs can interfere with the study drug.",
+      "Provide a list of all supplements to your coordinator."
+    ],
+    "confidence_scores": [0.93, 0.86, 0.80]
+  },
+  {
+    "query_id": 6,
+    "query_text": "Can I take ibuprofen for pain?",
+    "top_responses": [
+      "Certain pain medications like ibuprofen may be restricted.",
+      "Some studies allow only acetaminophen instead.",
+      "Always ask the study doctor before taking painkillers."
+    ],
+    "confidence_scores": [0.91, 0.84, 0.78]
+  },
+  {
+    "query_id": 7,
+    "query_text": "What side effects should I expect?",
+    "top_responses": [
+      "Side effects vary by study and are explained in the consent form.",
+      "You may receive a list of known risks.",
+      "Report any symptoms to the study staff immediately."
+    ],
+    "confidence_scores": [0.94, 0.87, 0.81]
+  },
+  {
+    "query_id": 8,
+    "query_text": "Will I get paid for participating?",
+    "top_responses": [
+      "Participants may receive reimbursement for time and travel.",
+      "Compensation is based on completed visits.",
+      "Your coordinator can explain the payment schedule."
+    ],
+    "confidence_scores": [0.91, 0.85, 0.80]
+  },
+  {
+    "query_id": 9,
+    "query_text": "Can I leave the study early?",
+    "top_responses": [
+      "You can leave the study at any time without penalty.",
+      "You do not need to give a reason.",
+      "Tell the study team if you decide to stop."
+    ],
+    "confidence_scores": [0.95, 0.89, 0.84]
+  },
+  {
+    "query_id": 10,
+    "query_text": "Who do I contact in an emergency?",
+    "top_responses": [
+      "You will receive emergency contact information for the study doctor.",
+      "Call the emergency number in your consent form.",
+      "If urgent, seek care and notify the study team."
+    ],
+    "confidence_scores": [0.93, 0.88, 0.83]
+  },
+
+  {
+    "query_id": 11,
+    "query_text": "How many visits are there in total?",
+    "top_responses": [
+      "The number of visits is defined in the study protocol.",
+      "Your coordinator can review the visit schedule with you.",
+      "Some studies include screening, treatment, and follow-up visits."
+    ],
+    "confidence_scores": [0.89, 0.83, 0.78]
+  },
+  {
+    "query_id": 12,
+    "query_text": "Can I reschedule a study visit?",
+    "top_responses": [
+      "Yes, contact your coordinator as soon as possible to reschedule.",
+      "Some visits have time windows defined by the protocol.",
+      "The study team will try to accommodate your schedule."
+    ],
+    "confidence_scores": [0.90, 0.84, 0.79]
+  },
+  {
+    "query_id": 13,
+    "query_text": "What if I miss a visit?",
+    "top_responses": [
+      "Contact the study team immediately if you miss a visit.",
+      "Missed visits must be documented in the study records.",
+      "Your coordinator will advise you on next steps."
+    ],
+    "confidence_scores": [0.91, 0.86, 0.80]
+  },
+  {
+    "query_id": 14,
+    "query_text": "Do I have to attend all follow-up visits?",
+    "top_responses": [
+      "Yes, follow-up visits are important for your safety and study results.",
+      "Try to attend all scheduled visits.",
+      "If you cannot attend, notify the team in advance."
+    ],
+    "confidence_scores": [0.92, 0.86, 0.81]
+  },
+  {
+    "query_id": 15,
+    "query_text": "Will I have blood drawn at every visit?",
+    "top_responses": [
+      "Blood draws depend on the study schedule.",
+      "Some visits require labs, others do not.",
+      "Your coordinator can explain when blood will be taken."
+    ],
+    "confidence_scores": [0.90, 0.84, 0.79]
+  },
+  {
+    "query_id": 16,
+    "query_text": "Do I need to fast before my lab tests?",
+    "top_responses": [
+      "Some lab tests require fasting. The study team will tell you if this applies to you.",
+      "Your coordinator will give you instructions before your visit.",
+      "Follow all preparation guidelines provided by the study staff."
+    ],
+    "confidence_scores": [0.92, 0.86, 0.80]
+  },
+  {
+    "query_id": 17,
+    "query_text": "What happens to my blood samples after collection?",
+    "top_responses": [
+      "Samples are labeled and stored according to the study protocol.",
+      "They may be analyzed in a central laboratory.",
+      "All samples are handled under strict confidentiality rules."
+    ],
+    "confidence_scores": [0.90, 0.84, 0.79]
+  },
+  {
+    "query_id": 18,
+    "query_text": "Do I have to return unused study medication?",
+    "top_responses": [
+      "Yes, you must return any unused study medication at each visit.",
+      "This helps the team track dosing and compliance.",
+      "Never share your study drug with anyone else."
+    ],
+    "confidence_scores": [0.94, 0.88, 0.82]
+  },
+  {
+    "query_id": 19,
+    "query_text": "What should I do if I miss a dose?",
+    "top_responses": [
+      "Do not double up on doses. Contact the study team for instructions.",
+      "The coordinator will advise you on how to proceed.",
+      "Missed doses must be documented."
+    ],
+    "confidence_scores": [0.93, 0.87, 0.81]
+  },
+  {
+    "query_id": 20,
+    "query_text": "Can someone else take my study medication?",
+    "top_responses": [
+      "No, the study medication is only for you.",
+      "Sharing study drugs is not allowed.",
+      "Return any unused medication to the study site."
+    ],
+    "confidence_scores": [0.96, 0.90, 0.85]
+  },
+  {
+    "query_id": 21,
+    "query_text": "How is my safety monitored during the study?",
+    "top_responses": [
+      "Your safety is monitored by the investigator and study staff.",
+      "Some studies also have an independent safety committee.",
+      "All side effects are reviewed regularly."
+    ],
+    "confidence_scores": [0.94, 0.88, 0.82]
+  },
+  {
+    "query_id": 22,
+    "query_text": "Has this study been approved by an ethics committee?",
+    "top_responses": [
+      "Yes, the study must be approved by an ethics committee before it starts.",
+      "Approval ensures participant rights and safety are protected.",
+      "You can ask your coordinator for more details."
+    ],
+    "confidence_scores": [0.95, 0.89, 0.84]
+  },
+  {
+    "query_id": 23,
+    "query_text": "Can the study procedures change after I join?",
+    "top_responses": [
+      "Any changes must be approved before being implemented.",
+      "You will be informed if procedures change.",
+      "You may be asked to re-sign the consent form."
+    ],
+    "confidence_scores": [0.93, 0.87, 0.82]
+  },
+  {
+    "query_id": 24,
+    "query_text": "What is re-consent?",
+    "top_responses": [
+      "Re-consent means signing an updated consent form with new information.",
+      "It happens if new risks or changes arise.",
+      "You always have the right to ask questions before signing."
+    ],
+    "confidence_scores": [0.94, 0.88, 0.83]
+  },
+  {
+    "query_id": 25,
+    "query_text": "Will my medical records be reviewed?",
+    "top_responses": [
+      "Authorized study staff and regulators may review your records.",
+      "This is done to ensure data accuracy and safety.",
+      "Your privacy is protected at all times."
+    ],
+    "confidence_scores": [0.92, 0.86, 0.81]
+  },
+  {
+    "query_id": 26,
+    "query_text": "What is a monitoring visit?",
+    "top_responses": [
+      "Monitoring visits check that the study is being conducted properly.",
+      "Monitors review data, consent forms, and procedures.",
+      "These visits help ensure compliance with regulations."
+    ],
+    "confidence_scores": [0.93, 0.87, 0.82]
+  },
+  {
+    "query_id": 27,
+    "query_text": "Are there audits or inspections?",
+    "top_responses": [
+      "Yes, authorities may inspect study sites.",
+      "Audits help ensure the study follows all rules.",
+      "The site must always be inspection-ready."
+    ],
+    "confidence_scores": [0.92, 0.86, 0.80]
+  },
+  {
+    "query_id": 28,
+    "query_text": "When will study results be available?",
+    "top_responses": [
+      "Results are available after the study is completed and analyzed.",
+      "Timelines depend on the study design.",
+      "You can ask the team if results will be shared with participants."
+    ],
+    "confidence_scores": [0.91, 0.85, 0.79]
+  },
+  {
+    "query_id": 29,
+    "query_text": "Can I see the study findings?",
+    "top_responses": [
+      "Some studies share summaries of results with participants.",
+      "Ask your coordinator if and when results will be provided.",
+      "Published results may be available publicly."
+    ],
+    "confidence_scores": [0.90, 0.84, 0.78]
+  },
+  {
+    "query_id": 30,
+    "query_text": "How long are my study records kept?",
+    "top_responses": [
+      "Study records are stored securely for the required retention period.",
+      "Retention timelines follow regulatory requirements.",
+      "The sponsor is responsible for long-term archiving."
+    ],
+    "confidence_scores": [0.93, 0.87, 0.82]
+  }
+]
