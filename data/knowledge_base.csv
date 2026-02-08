@@ -1,0 +1,101 @@
+document_id,document_text,metadata
+1,This document provides details about participant compensation. Participants may receive reimbursement for time and travel. Requires payment information.,Requires payment information
+2,This document provides details about study rules and responsibilities. Participants must follow all procedures in the protocol. Requires protocol compliance.,Requires protocol compliance
+3,This document provides details about informed consent. Participants must sign the consent form before any study activities. Requires signed consent.,Requires signed consent
+4,This document provides details about eligibility criteria. Participants must meet inclusion and exclusion requirements. Requires eligibility verification.,Requires eligibility verification
+5,This document provides details about adverse event reporting. All side effects must be reported to the study team. Requires safety reporting.,Requires safety reporting
+6,This document provides details about study visit schedules. Participants must attend all required visits. Requires visit adherence.,Requires visit adherence
+7,This document provides details about medication dosing. Study drugs must be taken exactly as prescribed. Requires dosing compliance.,Requires dosing compliance
+8,This document provides details about randomization procedures. Participants are assigned to groups randomly. Requires group assignment.,Requires group assignment
+9,This document provides details about blinding procedures. Treatment assignments may be masked. Requires blinding compliance.,Requires blinding compliance
+10,This document provides details about data privacy. Participant data is confidential. Requires data protection.,Requires data protection
+11,This document provides details about withdrawal rights. Participants may withdraw anytime. Requires withdrawal rights.,Requires withdrawal rights
+12,This document provides details about protocol deviations. Deviations must be documented. Requires deviation reporting.,Requires deviation reporting
+13,This document provides details about serious adverse events. Life-threatening events require immediate reporting. Requires urgent safety reporting.,Requires urgent safety reporting
+14,This document provides details about monitoring visits. Monitors ensure compliance. Requires monitoring procedures.,Requires monitoring procedures
+15,This document provides details about source data verification. Data must match medical records. Requires source data.,Requires source data
+16,This document provides details about case report forms. Data must be entered accurately. Requires CRF completion.,Requires CRF completion
+17,This document provides details about investigational product storage. Drugs must be stored correctly. Requires proper storage.,Requires proper storage
+18,This document provides details about accountability logs. All drug use must be tracked. Requires accountability records.,Requires accountability records
+19,This document provides details about staff training. All staff must complete GCP training. Requires staff training.,Requires staff training
+20,This document provides details about ethics committee approval. Approval is required before enrollment. Requires IRB/EC approval.,Requires IRB/EC approval
+21,This document provides details about protocol amendments. Changes must be approved. Requires amendment approval.,Requires amendment approval
+22,This document provides details about recruitment materials. Only approved materials may be used. Requires recruitment compliance.,Requires recruitment compliance
+23,This document provides details about screening procedures. Participants must be screened. Requires screening data.,Requires screening data
+24,This document provides details about enrollment confirmation. Eligible participants are enrolled. Requires enrollment confirmation.,Requires enrollment confirmation
+25,This document provides details about follow-up visits. Participants must complete follow-ups. Requires follow-up compliance.,Requires follow-up compliance
+26,This document provides details about endpoint assessment. Outcomes must follow definitions. Requires endpoint consistency.,Requires endpoint consistency
+27,This document provides details about data quality checks. Data must be accurate. Requires data validation.,Requires data validation
+28,This document provides details about audit readiness. Documents must be available. Requires audit preparedness.,Requires audit preparedness
+29,This document provides details about study close-out. Activities must be finalized. Requires close-out documentation.,Requires close-out documentation
+30,This document provides details about results reporting. Findings must be disclosed. Requires results disclosure.,Requires results disclosure
+31,This document provides details about participant diaries. Daily entries must be completed. Requires diary compliance.,Requires diary compliance
+32,This document provides details about lab sample handling. Samples must be labeled and stored properly. Requires sample management.,Requires sample management
+33,This document provides details about imaging procedures. Imaging must follow protocol. Requires imaging compliance.,Requires imaging compliance
+34,This document provides details about ECG collection. ECGs must be performed at defined times. Requires ECG compliance.,Requires ECG compliance
+35,This document provides details about safety labs. Lab results must be reviewed promptly. Requires lab review.,Requires lab review
+36,This document provides details about dose escalation. Dose changes must follow rules. Requires escalation control.,Requires escalation control
+37,This document provides details about concomitant medications. Some drugs are prohibited. Requires medication review.,Requires medication review
+38,This document provides details about pregnancy prevention. Contraception may be required. Requires pregnancy prevention.,Requires pregnancy prevention
+39,This document provides details about participant retention. Efforts must reduce dropout. Requires retention planning.,Requires retention planning
+40,This document provides details about protocol training. Staff must understand procedures. Requires protocol training.,Requires protocol training
+41,This document provides details about informed consent updates. New risks require re-consent. Requires consent updates.,Requires consent updates
+42,This document provides details about unblinding procedures. Unblinding is allowed only when necessary. Requires unblinding control.,Requires unblinding control
+43,This document provides details about site initiation. Sites must be activated before enrollment. Requires site activation.,Requires site activation
+44,This document provides details about safety committees. Independent review may be required. Requires safety oversight.,Requires safety oversight
+45,This document provides details about electronic data capture. Systems must be validated. Requires EDC compliance.,Requires EDC compliance
+46,This document provides details about patient-reported outcomes. Surveys must be completed. Requires PRO compliance.,Requires PRO compliance
+47,This document provides details about adverse event grading. Events must be classified correctly. Requires AE grading.,Requires AE grading
+48,This document provides details about deviation prevention. Training reduces errors. Requires deviation control.,Requires deviation control
+49,This document provides details about risk management plans. Risks must be mitigated. Requires risk management.,Requires risk management
+50,This document provides details about sponsor oversight. Sponsors review trial progress. Requires sponsor monitoring.,Requires sponsor monitoring
+51,This document provides details about investigator responsibilities. Investigators ensure participant safety. Requires investigator accountability.,Requires investigator accountability
+52,This document provides details about study documentation. Records must be complete. Requires documentation control.,Requires documentation control
+53,This document provides details about participant education. Participants must understand procedures. Requires education materials.,Requires education materials
+54,This document provides details about communication plans. Sites must report regularly. Requires communication control.,Requires communication control
+55,This document provides details about quality assurance audits. Audits assess compliance. Requires QA auditing.,Requires QA auditing
+56,This document provides details about regulatory inspections. Authorities may inspect sites. Requires inspection readiness.,Requires inspection readiness
+57,This document provides details about site files. Files must be maintained. Requires site file control.,Requires site file control
+58,This document provides details about emergency contacts. Participants must have contact info. Requires emergency planning.,Requires emergency planning
+59,This document provides details about protocol compliance tracking. Compliance must be monitored. Requires compliance tracking.,Requires compliance tracking
+60,This document provides details about adverse event follow-up. Events must be resolved. Requires AE follow-up.,Requires AE follow-up
+61,This document provides details about data lock. Data must be finalized. Requires data lock.,Requires data lock
+62,This document provides details about database validation. Systems must be tested. Requires system validation.,Requires system validation
+63,This document provides details about trial registration. Studies must be registered publicly. Requires trial registration.,Requires trial registration
+64,This document provides details about publication policy. Results may be published. Requires publication approval.,Requires publication approval
+65,This document provides details about participant reimbursement timelines. Payments follow schedules. Requires reimbursement scheduling.,Requires reimbursement scheduling
+66,This document provides details about investigator meetings. Meetings align teams. Requires meeting attendance.,Requires meeting attendance
+67,This document provides details about study newsletters. Updates inform sites. Requires communication updates.,Requires communication updates
+68,This document provides details about temperature monitoring. Storage temps must be logged. Requires temperature logs.,Requires temperature logs
+69,This document provides details about sample shipment. Samples must be shipped properly. Requires shipment tracking.,Requires shipment tracking
+70,This document provides details about device accountability. Devices must be tracked. Requires device tracking.,Requires device tracking
+71,This document provides details about protocol waivers. Rare exceptions must be approved. Requires waiver approval.,Requires waiver approval
+72,This document provides details about compliance metrics. KPIs measure performance. Requires metric reporting.,Requires metric reporting
+73,This document provides details about training refreshers. Periodic training is required. Requires refresher training.,Requires refresher training
+74,This document provides details about site performance. Enrollment rates are reviewed. Requires site evaluation.,Requires site evaluation
+75,This document provides details about participant safety plans. Safety is prioritized. Requires safety planning.,Requires safety planning
+76,This document provides details about backup procedures. Data must be backed up. Requires data backup.,Requires data backup
+77,This document provides details about cybersecurity controls. Systems must be secure. Requires security compliance.,Requires security compliance
+78,This document provides details about consent documentation. Signed forms must be archived. Requires consent archiving.,Requires consent archiving
+79,This document provides details about version control. Protocol versions must be tracked. Requires version tracking.,Requires version tracking
+80,This document provides details about vendor management. Vendors must be qualified. Requires vendor oversight.,Requires vendor oversight
+81,This document provides details about participant travel support. Travel may be arranged. Requires travel coordination.,Requires travel coordination
+82,This document provides details about insurance coverage. Participants may be insured. Requires insurance documentation.,Requires insurance documentation
+83,This document provides details about budget tracking. Study costs must be monitored. Requires budget control.,Requires budget control
+84,This document provides details about financial disclosure. Conflicts must be reported. Requires disclosure compliance.,Requires disclosure compliance
+85,This document provides details about delegation logs. Tasks must be assigned. Requires delegation records.,Requires delegation records
+86,This document provides details about study supplies. Supplies must be managed. Requires supply control.,Requires supply control
+87,This document provides details about enrollment targets. Goals must be met. Requires enrollment planning.,Requires enrollment planning
+88,This document provides details about feasibility assessments. Sites must be evaluated. Requires feasibility review.,Requires feasibility review
+89,This document provides details about patient advocacy input. Feedback may be used. Requires advocacy integration.,Requires advocacy integration
+90,This document provides details about protocol translations. Documents must be localized. Requires translation control.,Requires translation control
+91,This document provides details about emergency unblinding. Must be documented. Requires emergency unblinding.,Requires emergency unblinding
+92,This document provides details about risk-based monitoring. Focus on critical data. Requires RBM strategy.,Requires RBM strategy
+93,This document provides details about centralized monitoring. Data trends are reviewed. Requires centralized review.,Requires centralized review
+94,This document provides details about statistical analysis plans. Analyses must follow SAP. Requires SAP adherence.,Requires SAP adherence
+95,This document provides details about interim analyses. Early reviews may occur. Requires interim review.,Requires interim review
+96,This document provides details about study timelines. Milestones must be tracked. Requires timeline management.,Requires timeline management
+97,This document provides details about protocol compliance audits. Audits assess adherence. Requires compliance auditing.,Requires compliance auditing
+98,This document provides details about close-out visits. Final visits ensure completeness. Requires close-out visits.,Requires close-out visits
+99,This document provides details about final reports. Reports summarize findings. Requires final reporting.,Requires final reporting
+100,This document provides details about data archiving. Records must be retained securely. Requires long-term archiving.,Requires long-term archiving
