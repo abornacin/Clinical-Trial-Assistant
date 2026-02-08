@@ -46,3 +46,12 @@ clinical-trial-assistant/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
+```
+---
+
+## ⚠️ Medical Disclaimer
+
+This project is for educational and informational purposes only.
+It does NOT provide medical diagnosis or treatment advice.
+Always consult a qualified healthcare professional.
