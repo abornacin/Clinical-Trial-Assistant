@@ -1,0 +1,92 @@
+[
+  {
+    "query_text": "When is my screening visit?",
+    "retrieved_response": "Your screening visit is the first appointment where the study team checks if you meet the eligibility criteria.",
+    "confidence_score": 0.94,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "What happens on Day 0?",
+    "retrieved_response": "Day 0 is when you officially start the study and receive your first study-related procedures or medication.",
+    "confidence_score": 0.93,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "How long does a study visit usually take?",
+    "retrieved_response": "Visit length varies by procedure, but most visits last between 30 minutes and 2 hours.",
+    "confidence_score": 0.89,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Can I drink alcohol during the study?",
+    "retrieved_response": "Alcohol use may be restricted during the study. Please follow the instructions given by the study team.",
+    "confidence_score": 0.92,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Am I allowed to take supplements?",
+    "retrieved_response": "Some supplements are not allowed. Always check with the study team before taking any vitamins or herbal products.",
+    "confidence_score": 0.93,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Can I take ibuprofen for pain?",
+    "retrieved_response": "Certain pain medications like ibuprofen may be restricted. Ask the study team before taking any medication.",
+    "confidence_score": 0.91,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "What side effects should I expect?",
+    "retrieved_response": "Side effects vary by study and are explained in the consent form.",
+    "confidence_score": 0.95,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Will I get paid for participating?",
+    "retrieved_response": "Participants may receive reimbursement for time and travel according to the study protocol.",
+    "confidence_score": 0.90,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Can I leave the study at any time?",
+    "retrieved_response": "You can leave the study at any time without penalty or impact on your regular medical care.",
+    "confidence_score": 0.96,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Who do I contact in an emergency?",
+    "retrieved_response": "You will receive emergency contact information for the study doctor or coordinator.",
+    "confidence_score": 0.94,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Will my data be kept private?",
+    "retrieved_response": "Your personal and medical data are kept confidential and protected by law.",
+    "confidence_score": 0.93,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Do I need to fast before lab tests?",
+    "retrieved_response": "Some lab tests require fasting. The study team will tell you if this applies to you.",
+    "confidence_score": 0.90,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "What should I do if I miss a dose?",
+    "retrieved_response": "Do not double up on doses. Contact the study team for instructions.",
+    "confidence_score": 0.95,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "Has this study been approved?",
+    "retrieved_response": "Yes, the study has been reviewed and approved by an ethics committee before it started.",
+    "confidence_score": 0.96,
+    "timestamp": "2025-04-18T13:38:39Z"
+  },
+  {
+    "query_text": "When will the study results be available?",
+    "retrieved_response": "Results are available after the study is completed and analyzed.",
+    "confidence_score": 0.91,
+    "timestamp": "2025-04-18T13:38:39Z"
+  }
+]
